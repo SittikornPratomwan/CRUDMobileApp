@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794356068700",
+    "project_id": "sittikornpratomwan-68248",
+    "storage_bucket": "sittikornpratomwan-68248.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794356068700:android:26506f84d00f964cce1199",
+        "android_client_info": {
+          "package_name": "com.example.university"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgYqy9QCPkQmOBBa_nFowXlyBSRzuaZGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
