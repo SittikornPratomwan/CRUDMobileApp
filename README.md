@@ -1,16 +1,14 @@
 # university
 
-A new Flutter project.
+A  Flutter CRUD project.
 
-## Getting Started
+C(Create) สร้างหรือเพิ่มรายการใหม่
 
-This project is a starting point for a Flutter application.
+R(Read) อ่านดึงค้นหาหรือดูรายการที่มีอยู่
 
-A few resources to get you started if this is your first Flutter project:
+U(Update) อัปเดตหรือแก้ไขรายการที่มีอยู่
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+D(Delete) ลบปิดใช้งานหรือลบรายการที่มีอยู่
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ในฐานข้อมูล Firebase
+
