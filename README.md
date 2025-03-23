@@ -14,11 +14,10 @@ D(Delete) ลบปิดใช้งานหรือลบรายการ�
 
 <img src="images/1.png" alt="2" width="300">
 
-![2](images/2.png)
+<img src="images/2.png" alt="2" width="300">
 
-![3](images/3.png)
+<img src="images/3.png" alt="2" width="300">
 
-![4](images/4.png)
-
+<img src="images/4.png" alt="2" width="300">
 
 
