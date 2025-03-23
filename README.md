@@ -12,7 +12,7 @@ D(Delete) ลบปิดใช้งานหรือลบรายการ�
 
 ในฐานข้อมูล Firebase
 
-<img src="1.png" alt="Alt text" width="200">
+![1](images)
 
 <img src="2.png" alt="Alt text" width="200">
 
