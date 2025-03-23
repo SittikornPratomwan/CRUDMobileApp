@@ -17,3 +17,6 @@ D(Delete) ลบปิดใช้งานหรือลบรายการ�
 <img src="2.png" alt="Alt text" width="200">
 
 <img src="3.png" alt="Alt text" width="200">
+
+<img src="4.png" alt="Alt text" width="200">
+
